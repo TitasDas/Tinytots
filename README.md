@@ -1,2 +1,2 @@
 # Tinytots
-Sentiment analysis in children's books - fairytales, folklore etc
+Sentiment analysis in children's books - fairytales, folklore 
