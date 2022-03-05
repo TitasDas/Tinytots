@@ -15,3 +15,10 @@ Personally, I have enjoyed reading fairytales both as a kid and as an adult. Oth
 ## Use cases
 **Project gutenberg
 (more use case ideas are welcome)
+
+## Suggested list of books
+
+### Non fairy tales :
+1. Lolita
+2. Grotesque
+3. The People in the Trees
