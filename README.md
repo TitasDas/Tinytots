@@ -10,7 +10,7 @@ Personally, I have enjoyed reading fairytales both as a kid and as an adult. Oth
 - Why does one enjoy a particular story or find it interesting?
 
 ## References
-[] 1. Emotion lexicon presented in this paper 
+- [ ] Emotion lexicon presented in this paper 
 
 ## Use cases
 **Project gutenberg
