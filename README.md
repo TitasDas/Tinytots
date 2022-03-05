@@ -13,7 +13,7 @@ Personally, I have enjoyed reading fairytales both as a kid and as an adult. Oth
 - [ ] Emotion lexicon presented in this paper 
 
 ## Use cases
-**Project gutenberg
+* Project gutenberg
 (more use case ideas are welcome)
 
 ## Suggested list of books
